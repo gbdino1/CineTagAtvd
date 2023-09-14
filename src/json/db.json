@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "titulo": "O Senhor dos Aneis",
+        "capa": "https://musicart.xboxlive.com/7/308f5100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
+        "link": "https://www.youtube.com/embed/ypvGqZGJBls"
+    },
+    {
+        "id": 2,
+        "titulo": "Harry Potter",
+        "capa": "https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/11/harry-potter-e-a-camara-secreta.jpg?w=1200&h=1200&crop=1",
+        "link": "https://www.youtube.com/embed/jK0uiQ1ZQQQ"
+    },
+    {
+        "id": 3,
+        "titulo": "Pain and Gain",
+        "capa": "https://m.media-amazon.com/images/M/MV5BMTU0NDE5NTU0OV5BMl5BanBnXkFtZTcwMzI1OTMzOQ@@._V1_.jpg",
+        "link": "https://www.youtube.com/embed/N1BSG02z-Mw"
+    },
+    {
+        "id": 4,
+        "titulo": "OppenHeimer",
+        "capa": "https://br.web.img2.acsta.net/pictures/23/05/08/10/29/0695770.jpg",
+        "link": "https://www.youtube.com/embed/LLmBWjF6F8M"
+    }
+]
