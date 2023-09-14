@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import Banner from "components/Banner";
 import Titulo from "components/Titulo";
+import "../CadFilmes/index.css"
 
 function CadFilmes(){
     const [name, setName] = useState("");
