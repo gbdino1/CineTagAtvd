@@ -6,7 +6,7 @@
 
 .formulario form {
     max-width: 80%;
-    background-color: #F2F2F2;
+    background-color: #f2f2f2;
     border-radius: 20px;
     padding: 36px 64px;
     box-shadow: 8px 8px 16px rgba(0,0,0, 0.08);
@@ -23,7 +23,7 @@
 }
 
 .campo-texto input {
-    background-color: #FFF;
+    background-color: #ffffff;
     box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
     width: 100%;
     border: none;
@@ -33,17 +33,17 @@
 }
 
 .botao {
-    background-color: #6278f7;
+    background-color: #fa4de3;
     border-radius: 10px;
     font-weight: 700;
     font-size: 18px;
     padding: 32px;
     border: none;
     cursor: pointer;
-    color: #FFF;
+    color: #000000;
     margin: 32px 0;
 }
 
 .botao:hover {
-    color: #95FFD4;
+    color: #4a5853;
 }

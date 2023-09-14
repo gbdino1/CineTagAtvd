@@ -64,7 +64,7 @@ return(
                 placeholder="Inserir url da imagem do filme"
                 onChange={(e) => setImage_url(e.target.value)}
                 />
-                <button className="botao" type="submit">Cadastrar filme</button>
+                <button className="botao" type="submit">Inserir filme</button>
                 <div className="mensagem">{mesage ? <p>{mesage}</p> : null} </div>
             </div>
         </form>
